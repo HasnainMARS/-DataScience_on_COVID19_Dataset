@@ -42,7 +42,7 @@ This repository contains a **Streamlit app** developed to analyze and predict CO
 1.  Clone this repository:
 
     ```python
-    [https://github.com/MTalhaSaleem22/DataScience_on_COVID19_Dataset.git](https://github.com/MTalhaSaleem22/DataScience_on_COVID19_Dataset.git)
+    [https://github.com/HasnainMARS/DataScience_on_COVID19_Dataset.git](https://github.com/HasnainMARS/DataScience_on_COVID19_Dataset.git)
     ```
 
 2. Install the required packages:
